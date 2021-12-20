@@ -3,7 +3,7 @@ This is a dataset related to metadata on the Pocket (POKT) blockchain. For ceonv
 
 ### Data Available
 
-+ __Wallet Balances for block 40,500.__ Provided in both CSV and JSON format, this dataset provides the exhaustive list of wallet addresses and their current balances at block 40,500 on the POKT network.
++ __Wallet Balances for block 45,000.__ Provided in both CSV and JSON format, this dataset provides the exhaustive list of wallet addresses and their current balances at block 45,000 on the POKT network.
 
 ### The Future of the Pocket Network DataSet
 JAMSO Financial Group, LLC, aims to improve upon this repository frequently. Our team is available for requests of new data or insights.
